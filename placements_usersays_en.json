@@ -1,0 +1,54 @@
+[
+  {
+    "id": "9efa5e9d-da5b-4709-b1ef-a3354577db4a",
+    "data": [
+      {
+        "text": "which companies come to your campus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ddc3588-d2fb-400c-ae77-947d9db1626c",
+    "data": [
+      {
+        "text": "how are placements in your college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed78f488-d494-4af7-a081-efd37ea3fbd8",
+    "data": [
+      {
+        "text": "what is average pay package",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7a39840-73bc-4cb4-a791-0ab5301db0ce",
+    "data": [
+      {
+        "text": "what is highest pay pakage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

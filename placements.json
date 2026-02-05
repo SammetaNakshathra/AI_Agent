@@ -1,0 +1,38 @@
+{
+  "id": "c27b0d9b-48ea-4e4f-98d9-7bedb3499120",
+  "name": "placements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The highest package varies each year, but in recent years, students have secured offers up to ₹20 LPA from companies like Amazon, Google, and Microsoft.",
+            "he average salary package for placed students typically falls between ₹3.5 LPA to ₹6 LPA, depending on the branch and company.",
+            "The placement percentage at CBIT Engineering College varies each year but typically ranges between 80% to 90%. Many students receive multiple offers from top recruiters.",
+            "Some of the top recruiters include TCS, Infosys, Wipro, Cognizant, Accenture, Capgemini, Tech Mahindra, HCL, Amazon, and IBM, among others."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
