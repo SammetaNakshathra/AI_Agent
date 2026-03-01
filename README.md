@@ -4,12 +4,12 @@ An intelligent assistant designed to streamline and enhance the college placemen
 
 The College Placements AI Agent is a smart solution built to assist users with:
 
-Preparing for placement drives
+Preparing for placement drives.
 
-Tracking company schedules and eligibility
+Tracking company schedules and eligibility.
 
-Answering placement-related queries
+Answering placement-related queries.
 
-Recommending tailored resources and study plans
+Recommending tailored resources and study plans.
 
 With its conversational AI interface, students can interact naturally—just like chatting with a mentor!
